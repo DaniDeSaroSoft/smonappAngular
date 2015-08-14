@@ -1,0 +1,2 @@
+# smonappAngular
+Smonapp version AngularJs
